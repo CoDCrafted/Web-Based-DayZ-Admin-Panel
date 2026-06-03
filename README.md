@@ -1,6 +1,8 @@
 # Web-Based-DayZ-Admin-Panel
 Originally made for console server owners who lack the ability for custom in-game UIs, this tool allows you to remotely run commands on your DayZ server without being logged in and without requiring any additional mods, it is all init.c based. Seeing as Nitrado no longer allows users to modify the init.c file, I deciced there was no point gatekeeping this so I will just release it for use on steam servers instead. This was never really intended to be released to the end-user so it is presented "as-is" and some tweaking may be required to get it fully working; some dependency files (namely the entirety of "essential/internal.php") have been omitted as it contains far too much sensitive code relating to my own internal systems.
 
+If you would like to make a fork please do, the intention behind releasing this was to give others the opportunity to contribute to it.
+
 # How To Use
 
 DayZ Server Install:
